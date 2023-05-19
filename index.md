@@ -3,21 +3,19 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi there, <br/> I'm Jonathon Belotti.
+# 🧙‍♂️  Hi there, <br/> I'm Jordan Knox
 
-### I'm a software engineer with a focus on data & platform engineering.
+### I'm a guy who loves data and keeps falling into things like Data Engineering and DevOps. I have no clue what I'm doing. 
 
-### Currently, I help build [Modal](https://modal.com/), a dream cloud platform for data & ML engineers.
-
-<br>
-
-I can usually be found in a programming IDE or reading.
-I'm bullish on, and a big booster of:
-
-- 🌿💚 [@bazelbuild](https://github.com/bazelbuild/) and generally using functional principles to keep things sane. (I've open-sourced a few tools for the Bazel ecosystem, see [/projects]({{ site.baseurl }}/projects))
-- Good old-fashioned books 📖. Two recent favourites are [_The Dispossessed_](https://www.goodreads.com/book/show/13651.The_Dispossessed) and [_Coders at Work_](https://www.goodreads.com/book/show/6713575-coders-at-work)
-- [Effective Altruism](https://www.vox.com/future-perfect/2019/12/6/20992100/peter-singer-effective-altruism-lives-you-can-save-animal-liberation). Helping, not harming. Doing, not having. Building, not consuming.
+### Currently, I help build and consult with my other unicorns at [Digitas](https://www.digitas.com/en-us), a global marketing agency. 
 
 <br>
 
-[**See latest blog posts →**]({{ site.baseurl }}/blog)
+I'm on a journey to get better in tech overall so you can usually find me stumbling through the next project to learn something new
+
+- ⚔️💪 [@D&DStrong] ever wonder how strong you are compared to your D&D character? Check it out compared to over 10,000 international powerlifters to see how you stack up. 
+
+
+<br>
+
+
