@@ -5,7 +5,7 @@ tags: home
 
 # 🧙‍♂️  Hi there, <br/> I'm Jordan Knox
 
-### I'm a guy who loves data and keeps falling into things like Data Engineering and DevOps. I have no clue what I'm doing. 
+### I'm a guy who loves data and keeps falling into things like Data Engineering and DevOps. 
 
 ### Currently, I help build and consult with my other unicorns at 🦄 [Digitas](https://www.digitas.com/en-us), a global marketing agency. 
 
