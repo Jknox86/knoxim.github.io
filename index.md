@@ -11,7 +11,7 @@ tags: home
 
 <br>
 
-I'm on a journey to get better in tech overall so you can usually find me stumbling through the next project to learn something new
+I usually tinker on different projects in my spare time - see below for what I'm currently working on! 
 
 - ⚔️💪 [@D&DStrong] ever wonder how strong you are compared to your D&D character? Check it out compared to over 10,000 international powerlifters to see how you stack up. 
 
