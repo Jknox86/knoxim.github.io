@@ -7,7 +7,7 @@ tags: home
 
 ### I'm a guy who loves data and keeps falling into things like Data Engineering and DevOps. 
 
-### Currently, I help build and consult with my other unicorns at 🦄 [Digitas](https://www.digitas.com/en-us), a global marketing agency. 
+### Currently, I oversee Cloud Data & Strategy at [TRKKN](https://www.trkkn.com/), a Cloud and Analytics company. 
 
 <br>
 
