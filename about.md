@@ -12,7 +12,7 @@ I'm lucky to live in what I consider the best city around - NYC. I currently res
 
 ### What I do now
 
-Currently, I help build out global data solutions for 🦄 [**Digitas**](https://www.digitas.com/en-us), a global marketing agency
+Currently, I help oversee Cloud Solutions with my teammates at [**TRKKN**](https://www.trkkn.com/), a Cloud and Analytics company.
 
 ### Where I like to do when I'm not lost in documentation 
 
