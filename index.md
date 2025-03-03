@@ -5,9 +5,9 @@ tags: home
 
 # 🧙‍♂️  Hi there, <br/> I'm Jordan Knox
 
-### I'm a guy who loves data and keeps falling into things like Data Engineering and DevOps. 
+### A guy who likes tinkering with tech, building fun things, and continually trying to learn cool new things! 
 
-### Currently, I oversee Cloud Data & Strategy at [TRKKN](https://www.trkkn.com/), a Cloud and Analytics company. 
+### Currently, I oversee Cloud Engineering and Advanced Analytics/AI at [TRKKN](https://www.trkkn.com/), a Cloud and Analytics company. 
 
 <br>
 
